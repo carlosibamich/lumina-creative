@@ -249,6 +249,7 @@ img{
 
   textarea {
     height: 150px;
+    resize: none;
   }
 
   input:focus, textarea:focus {
